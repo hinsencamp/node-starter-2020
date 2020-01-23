@@ -1,4 +1,6 @@
-![banner](https://raw.githubusercontent.com/fh48/node-starter-2020/resources/banner.png)
+
+![banner](./resources/banner.png)
+
 
 # Node Starter 2020
 
