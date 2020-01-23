@@ -1,7 +1,5 @@
 # Node Starter 2020
 
-The JavaScript Ecosystem has seen a massive growth over the last years. In the past, nodeJS projects often only contained a couple of scripts and dependencies, today in 2020 there is a whole eco-system of tools around nodeJS which helps you to write better code and ship faster.
-
 This Project is a humple appraoch to cut through this new complexity and offer a generic jump-off point into any kind of node project.
 
 ## Installation
