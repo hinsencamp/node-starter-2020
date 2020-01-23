@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/fh48/node-starter-2020/resources/banner.png)
+
 # Node Starter 2020
 
 This Project is a humple appraoch to cut through this new complexity and offer a generic jump-off point into any kind of node project.
