@@ -1,3 +1,3 @@
-import foo from "characteristics";
+import foo from "someModule";
 
 console.log(foo());
